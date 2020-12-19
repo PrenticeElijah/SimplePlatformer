@@ -1,0 +1,7 @@
+Music: https://opengameart.org/content/4-chiptunes-adventure
+
+SFX:
+    Coin Sound: https://opengameart.org/content/10-8bit-coin-sounds
+    Jump Sound: https://opengameart.org/content/8-bit-platformer-sfx
+
+Sprites/Tileset: https://opengameart.org/users/grafxkid
