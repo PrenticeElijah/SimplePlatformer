@@ -1,6 +1,6 @@
 # SimplePlatformer
 
-I created a short (one level) platformer game similar to Mario or Kirby within. Working on this project was a great introduction to the some basic jump and movement physics in Unity. The main concepts I wanted to learn from this project include:
+I created a short (one level) platformer game similar to Mario or Kirby within one week. Working on this project was a great introduction to the some basic jump and movement physics in Unity. The main concepts I wanted to learn from this project include:
   - Raycasting
   - Force and Velocity
   - Tilemaps and Sprite Atlas'
